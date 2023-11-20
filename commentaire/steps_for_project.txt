@@ -1,0 +1,32 @@
+1 DATA ACCESS AND COLLECTION
+2 DATA PREPARATION AND EXPLORATION
+3 MODEL BUILD AND TRAIN
+  3.1 DEFINE NETWORK
+  3.2 COMPILE NETWORK
+  3.3 FIT NETWORK
+  3.4 EVALUATE NETWORK
+  3.5 MAKE PREDICTIONS
+4 MODEL EVALUATION
+5 MODEL DEPLOYEMENT
+6 MODEL MONITORING
+
+PREPROCESSING OF IMAGE DATA
+  * augmentation de données
+  * recadrage de données
+  * redimensionnement de données
+
+
+# Normalisation
+# Categorical variables
+# Cross entropy
+
+-Features Selection
+-Features extraction
+-Features Engineering
+-Features Learning
+-Feature Saling = data normalization
+
+Train , Test , Validation
+
+Batch_size  ,  Epoch  , Iteration
+

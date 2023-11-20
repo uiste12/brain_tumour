@@ -1,0 +1,13 @@
+#Data extraction
+#resize images
+#separate images
+#print data lenght
+#convert data into numpy array 
+#reshape data
+#normalize data 
+#import data 
+#import models
+#build model 
+#filter
+#inputshape
+#flattening
